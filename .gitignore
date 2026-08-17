@@ -1,0 +1,14 @@
+# Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Pytorch models / data
+*.pth
+*.pt
+data/
+checkpoints/
+
+# VS Code
+.vscode/
